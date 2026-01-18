@@ -1,0 +1,7 @@
+leot_venv/
+myvenv/
+virt_leot/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
