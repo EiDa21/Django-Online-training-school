@@ -89,5 +89,5 @@ python manage.py runserver
 ## Author
 
 **Emeka Dennis**  
-[GitHub](https://github.com/your-username)  
-your.email@example.com
+Backend Developer (Django)  
+emeksdenny15@gmail.com
